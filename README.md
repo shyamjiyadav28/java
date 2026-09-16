@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/shyamjiyadav28/java/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/shyamjiyadav28/java/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/shyamjiyadav28/java/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/shyamjiyadav28/java/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/shyamjiyadav28/java/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/shyamjiyadav28/java/tree/master/0905-sort-array-by-parity) |
 ## Matrix
 |  |
