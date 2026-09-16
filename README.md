@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shyamjiyadav28/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/shyamjiyadav28/java/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/shyamjiyadav28/java/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/shyamjiyadav28/java/tree/master/0925-long-pressed-name) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shyamjiyadav28/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0824-goat-latin](https://github.com/shyamjiyadav28/java/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/shyamjiyadav28/java/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/shyamjiyadav28/java/tree/master/0925-long-pressed-name) |
@@ -35,4 +37,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/shyamjiyadav28/java/tree/master/0844-backspace-string-compare) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shyamjiyadav28/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shyamjiyadav28/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shyamjiyadav28/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shyamjiyadav28/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
