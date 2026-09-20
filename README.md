@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shyamjiyadav28/java/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shyamjiyadav28/java/tree/master/0414-third-maximum-number) |
 | [0867-transpose-matrix](https://github.com/shyamjiyadav28/java/tree/master/0867-transpose-matrix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shyamjiyadav28/java/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/shyamjiyadav28/java/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shyamjiyadav28/java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shyamjiyadav28/java/tree/master/1572-matrix-diagonal-sum) |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shyamjiyadav28/java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
