@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/shyamjiyadav28/java/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shyamjiyadav28/java/tree/master/0414-third-maximum-number) |
 | [0867-transpose-matrix](https://github.com/shyamjiyadav28/java/tree/master/0867-transpose-matrix) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/shyamjiyadav28/java/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/shyamjiyadav28/java/tree/master/0905-sort-array-by-parity) |
 ## Matrix
@@ -85,4 +87,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
