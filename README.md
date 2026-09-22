@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/shyamjiyadav28/java/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/shyamjiyadav28/java/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/shyamjiyadav28/java/tree/master/0925-long-pressed-name) |
+| [0977-squares-of-a-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shyamjiyadav28/java/tree/master/0414-third-maximum-number) |
 | [0867-transpose-matrix](https://github.com/shyamjiyadav28/java/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/shyamjiyadav28/java/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shyamjiyadav28/java/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shyamjiyadav28/java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/shyamjiyadav28/java/tree/master/1470-shuffle-the-array) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/shyamjiyadav28/java/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/shyamjiyadav28/java/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shyamjiyadav28/java/tree/master/1051-height-checker) |
 ## Matrix
 |  |
