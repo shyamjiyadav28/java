@@ -6,7 +6,7 @@ class Solution {
         int n = grid[0].length;
 
         int total = m * n;
-        k = k % total;
+        //k = k % total;
 
         List<List<Integer>> ans = new ArrayList<>();
 
