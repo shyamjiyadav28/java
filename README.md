@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/shyamjiyadav28/java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shyamjiyadav28/java/tree/master/1051-height-checker) |
+| [1260-shift-2d-grid](https://github.com/shyamjiyadav28/java/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shyamjiyadav28/java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shyamjiyadav28/java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shyamjiyadav28/java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shyamjiyadav28/java/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/shyamjiyadav28/java/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/shyamjiyadav28/java/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shyamjiyadav28/java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shyamjiyadav28/java/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/shyamjiyadav28/java/tree/master/1672-richest-customer-wealth) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/shyamjiyadav28/java/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/shyamjiyadav28/java/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/shyamjiyadav28/java/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shyamjiyadav28/java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
