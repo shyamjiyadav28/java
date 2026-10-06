@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/shyamjiyadav28/java/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/shyamjiyadav28/java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shyamjiyadav28/java/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/shyamjiyadav28/java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/shyamjiyadav28/java/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/shyamjiyadav28/java/tree/master/1260-shift-2d-grid) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shyamjiyadav28/java/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/shyamjiyadav28/java/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/shyamjiyadav28/java/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/shyamjiyadav28/java/tree/master/1260-shift-2d-grid) |
