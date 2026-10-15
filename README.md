@@ -142,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shyamjiyadav28/java/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shyamjiyadav28/java/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shyamjiyadav28/java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
