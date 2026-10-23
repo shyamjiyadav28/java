@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shyamjiyadav28/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/shyamjiyadav28/java/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/shyamjiyadav28/java/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shyamjiyadav28/java/tree/master/0876-middle-of-the-linked-list) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/shyamjiyadav28/java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
 | [1122-relative-sort-array](https://github.com/shyamjiyadav28/java/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shyamjiyadav28/java/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/shyamjiyadav28/java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shyamjiyadav28/java/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shyamjiyadav28/java/tree/master/0876-middle-of-the-linked-list) |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/shyamjiyadav28/java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shyamjiyadav28/java/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shyamjiyadav28/java/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
