@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shyamjiyadav28/java/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/shyamjiyadav28/java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/shyamjiyadav28/java/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/shyamjiyadav28/java/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shyamjiyadav28/java/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/shyamjiyadav28/java/tree/master/0905-sort-array-by-parity) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/shyamjiyadav28/java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shyamjiyadav28/java/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/shyamjiyadav28/java/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/shyamjiyadav28/java/tree/master/0867-transpose-matrix) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/shyamjiyadav28/java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shyamjiyadav28/java/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/shyamjiyadav28/java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0977-squares-of-a-sorted-array) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shyamjiyadav28/java/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/shyamjiyadav28/java/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/shyamjiyadav28/java/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shyamjiyadav28/java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/shyamjiyadav28/java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/shyamjiyadav28/java/tree/master/0349-intersection-of-two-arrays) |
 | [1122-relative-sort-array](https://github.com/shyamjiyadav28/java/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
