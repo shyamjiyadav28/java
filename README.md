@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/shyamjiyadav28/java/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shyamjiyadav28/java/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/shyamjiyadav28/java/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/shyamjiyadav28/java/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/shyamjiyadav28/java/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shyamjiyadav28/java/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/shyamjiyadav28/java/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/shyamjiyadav28/java/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/shyamjiyadav28/java/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/shyamjiyadav28/java/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shyamjiyadav28/java/tree/master/1051-height-checker) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shyamjiyadav28/java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shyamjiyadav28/java/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/shyamjiyadav28/java/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/shyamjiyadav28/java/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shyamjiyadav28/java/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/shyamjiyadav28/java/tree/master/1122-relative-sort-array) |
