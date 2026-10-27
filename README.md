@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shyamjiyadav28/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/shyamjiyadav28/java/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shyamjiyadav28/java/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/shyamjiyadav28/java/tree/master/0234-palindrome-linked-list) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/shyamjiyadav28/java/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shyamjiyadav28/java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/shyamjiyadav28/java/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/shyamjiyadav28/java/tree/master/0203-remove-linked-list-elements) |
