@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shyamjiyadav28/java/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/shyamjiyadav28/java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shyamjiyadav28/java/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/shyamjiyadav28/java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shyamjiyadav28/java/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/shyamjiyadav28/java/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/shyamjiyadav28/java/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/shyamjiyadav28/java/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shyamjiyadav28/java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
