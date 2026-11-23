@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/shyamjiyadav28/java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shyamjiyadav28/java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamjiyadav28/java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shyamjiyadav28/java/tree/master/0414-third-maximum-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/shyamjiyadav28/java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamjiyadav28/java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shyamjiyadav28/java/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/shyamjiyadav28/java/tree/master/0905-sort-array-by-parity) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shyamjiyadav28/java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shyamjiyadav28/java/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/shyamjiyadav28/java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shyamjiyadav28/java/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shyamjiyadav28/java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shyamjiyadav28/java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shyamjiyadav28/java/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/shyamjiyadav28/java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamjiyadav28/java/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/shyamjiyadav28/java/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shyamjiyadav28/java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shyamjiyadav28/java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shyamjiyadav28/java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shyamjiyadav28/java/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/shyamjiyadav28/java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamjiyadav28/java/tree/master/0349-intersection-of-two-arrays) |
 | [1122-relative-sort-array](https://github.com/shyamjiyadav28/java/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
@@ -211,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shyamjiyadav28/java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shyamjiyadav28/java/tree/master/0268-missing-number) |
 ## Depth-First Search
 |  |
 | ------- |
